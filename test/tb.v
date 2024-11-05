@@ -4,12 +4,12 @@
 /* This testbench just instantiates the module and makes some convenient wires
    that can be driven / tested by the cocotb test.py.
 */
-module tt_um_arrayMultFajrSahana_tb ();
+module tb ();
 
   // Dump the signals to a VCD file. You can view it with gtkwave.
   initial begin
     $dumpfile("tb.vcd");
-    $dumpvars(0, tb);
+     $dumpvars(0, tb);
     #1;
   end
 
@@ -28,7 +28,7 @@ module tt_um_arrayMultFajrSahana_tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_example user_project (
+  tt_um_arrayMultFajrSahana (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
