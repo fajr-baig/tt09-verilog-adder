@@ -10,11 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This is a 4 by 4 bit multiplier designed in Verilog using structural designs. 
+TODO: add diagram
 
 ## How to test
 
-Explain how to use your project
+To run test, refer to test/README.md. To add new test, modify test/test.py. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None. 
