@@ -11,6 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 This is a 4 by 4 bit multiplier designed in Verilog using structural designs. 
 TODO: add diagram
+!(Image Description)[ttlogo_400.png]
 
 ## How to test
 
