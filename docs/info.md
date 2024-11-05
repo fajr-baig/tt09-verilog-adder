@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This is a 4 by 4 bit multiplier designed in Verilog using structural designs. 
-![Block Diagram](4by4multplierDiagram.png) 
+![Block Diagram](4by4multiplierDiagram.png) 
 
 ## How to test
 
