@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a 4 by 4 bit multiplier designed in Verilog using structural designs. 
 
 ## How to test
 
