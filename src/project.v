@@ -30,7 +30,7 @@ assign q = ui_in[3:0];
 wire [7:0] p;
 assign uo_out = p;
 
-wire w1, w2, w3, w4, w5, w6;
+wire s1, s2, s3, s4, s5, s6;
 wire c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11;
 assign p[0] = m[0] & q[0];
 
